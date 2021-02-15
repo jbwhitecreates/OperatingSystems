@@ -1,1 +1,1 @@
-
+One of the primary fuctions of the operating sytem is as a memory manager. A memory manager helps the operating system keep track of what is being stored in the RAM and where it is exactly. The second function of the memory manager is to allocate how much memory is allocated to each program.
